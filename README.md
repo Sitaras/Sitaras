@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **sitari9@gmail.com**.
 
-- ⚡ Fun fact: **I'm always in trouble**.
+- ⚡ "**I'm always in trouble**."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
