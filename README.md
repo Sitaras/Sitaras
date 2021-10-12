@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Dimitris</h1>
 <h3 align="center">A passionate developer from Greece</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sitaras?tab=repositories](https://github.com/Sitaras?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/Sitaras?tab=repositories](https://github.com/Sitaras?tab=repositories)
 
-- 📫 How to reach me **sitari9@gmail.com**
+- 📫 How to reach me: **sitari9@gmail.com**
 
-- ⚡ Fun fact **I'm always in trouble**
+- ⚡ Fun fact: **I'm always in trouble**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dimitris sitaras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitris sitaras" height="30" width="40" /></a>
 <a href="https://instagram.com/sitarass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sitarass" height="30" width="40" /></a>
-<a href="https://discord.gg/mamasita#8098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mamasita#8098" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
