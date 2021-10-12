@@ -3,11 +3,11 @@
   <br>I'm most interested in the fields of Artificial Intelligence and Web Development.</h3>
   
 
-- 👨‍💻 All of my projects are available at: [https://github.com/Sitaras?tab=repositories](https://github.com/Sitaras?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/Sitaras?tab=repositories](https://github.com/Sitaras?tab=repositories).
 
-- 📫 How to reach me: **sitari9@gmail.com**
+- 📫 How to reach me: **sitari9@gmail.com**.
 
-- ⚡ Fun fact: **I'm always in trouble**
+- ⚡ Fun fact: **I'm always in trouble**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
