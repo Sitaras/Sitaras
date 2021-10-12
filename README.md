@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dimitris</h1>
+<h1 align="center">Hi there, I'm Dimitris 🌠</h1>
 <h3 align="center">A passionate developer from Greece</h3>
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Sitaras?tab=repositories](https://github.com/Sitaras?tab=repositories)
