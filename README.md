@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm Dimitris 🌠</h1>
-<h3 align="center">A passionate developer from Greece</h3>
+<h1 align="center">Hi there, I'm Dimitris! 🌠</h1>
+<h3 align="center"><p> I'm an undergraduate student in Computer Science, at the <a href="https://www.di.uoa.gr/en" target="_blank">Dept. of Informatics and Telecommunications</a>,     <a href="https://en.uoa.gr/" target="_blank">National and Kapodistrian University of Athens</a>. 
+  <br></h3>
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Sitaras?tab=repositories](https://github.com/Sitaras?tab=repositories)
 
