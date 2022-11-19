@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Sitaras?tab=repositories](https://github.com/Sitaras?tab=repositories).
 
-- 📫 How to reach me: **sitari9@gmail.com**.
+- 📫 How to reach me: **dsitaras@protonmail.com**.
 
 - ⚡ "**I'm always in trouble**." ⚡
 
