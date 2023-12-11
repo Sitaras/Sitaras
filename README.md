@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Dimitris! 🌠</h1>
-<h3 align="center"><p> I'm an undergraduate student in Computer Science, at the <a href="https://www.di.uoa.gr/en" target="_blank">Dept. of Informatics and Telecommunications</a>,     <a href="https://en.uoa.gr/" target="_blank">National and Kapodistrian University of Athens</a>. 
-  <br>I'm most interested in the fields of Web & Mobile Development.</h3>
+<h3 align="center"><p>I am currently a Web Engineer at Desquared, Athens. I graduated with a degree in Computer Science from the Department of Informatics and Telecommunications at the National and Kapodistrian University of Athens. My expertise and focus revolve around the dynamic fields of Web and Mobile Development. In my role, I actively contribute to the development and enhancement of web-based projects, applying my skills and knowledge to create innovative solutions.</p>.
   
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Sitaras?tab=repositories](https://github.com/Sitaras?tab=repositories).
