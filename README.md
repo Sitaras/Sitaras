@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Dimitris! 🌠</h1>
-<p align="center">I am currently a Web Engineer at Desquared, Athens. I graduated with a degree in Computer Science from the Department of Informatics and Telecommunications at the National and Kapodistrian University of Athens. My expertise and focus revolve around the dynamic fields of Web and Mobile Development. In my role, I actively contribute to the development and enhancement of web-based projects, applying my skills and knowledge to create innovative solutions.</p>
+<p align="center">I build secure, user-focused web and mobile applications. With 2+ years of frontend development experience, I specialize in React, TypeScript, and React Native, delivering scalable solutions for fintech, loyalty platforms, and enterprise clients.
+I focus on creating intuitive interfaces while maintaining high standards for performance and security.</p>
   
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Sitaras?tab=repositories](https://github.com/Sitaras?tab=repositories).
