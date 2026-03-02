@@ -13,8 +13,7 @@
 ### 👨‍💻 Quick Facts
 
 - 🔭 I’m currently building scalable frontend solutions for enterprise clients.
-- 🌱 Specializing heavily in the **React** and **TypeScript** ecosystems.
-- 💡 Passionate about intuitive interfaces, performance, and high accessibility scores.
+- 🌱 Specializing in the **React** and **TypeScript** ecosystems.
 ---
 
 ### 🛠️ My Tech Stack
