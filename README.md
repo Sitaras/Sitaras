@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Quick Facts
 
-- 🔭 I’m currently building scalable frontend solutions for enterprise clients.
+- 🔭 I’m currently building scalable full-stack solutions for enterprise clients.
 - 🌱 Specializing in the **React** and **TypeScript** ecosystems.
 ---
 
