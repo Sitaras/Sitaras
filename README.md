@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Dimitris! 🌠</h1>
-<h3 align="center">Building web & mobile apps 🚀</h3>
+<h3 align="center">Web Engineer | Building web & mobile apps 🚀</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sitarass/">
