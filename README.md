@@ -12,9 +12,9 @@
 
 ### 👨‍💻 Quick Facts
 
-- 🔭 Building full-stack products for enterprise clients in finance & healthcare.
-- 🤖 Bringing LLM/agentic workflows into real delivery — Claude Code, MCP servers, custom dev tooling.
-- 🧰 Home turf: **React**, **TypeScript**, **React Native** — from design system to App Store.
+- 🔭 Building full-stack products for enterprise clients.
+- 🤖 Bringing LLM/agentic workflows into real delivery.
+- 🧰 Home turf: **TypeScript**, **React**, **React Native**.
 - 🎓 CS background that still pays off: compilers, operating systems, parallel computing, security.
 
 ---
