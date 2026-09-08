@@ -10,16 +10,16 @@
 
 ---
 
-### 👨‍💻 Quick Facts
+### Quick Facts
 
-- 🔭 Building full-stack products for enterprise clients.
-- 🤖 Bringing LLM/agentic workflows into real delivery.
+- Building full-stack products for enterprise clients.
+- Bringing LLM/agentic workflows into real delivery.
 - 🧰 Home turf: **TypeScript**, **React**, **React Native**.
 - 🎓 CS background that still pays off: compilers, operating systems, parallel computing, security.
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" /> <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" /> </p>
