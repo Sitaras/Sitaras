@@ -14,8 +14,8 @@
 
 - Building full-stack products for enterprise clients.
 - Bringing LLM/agentic workflows into real delivery.
-- 🧰 Home turf: **TypeScript**, **React**, **React Native**.
-- 🎓 CS background that still pays off: compilers, operating systems, parallel computing, security.
+- Home turf: TypeScript, React, React Native.
+- CS background that still pays off: compilers, operating systems, parallel computing, security.
 
 ---
 
